@@ -1,0 +1,13 @@
+[package]
+name = "spriteron"
+version = "0.1.0"
+authors = ["Zlepper <hansen13579@gmail.com>"]
+edition = "2018"
+description = "Generate sprite ron files for Amethyst"
+
+[dependencies]
+structopt = { version = "0.2" }
+png = "0.14"
+ron = "0.5"
+serde = "1.0"
+serde_derive = "1.0"
