@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["Zlepper"]
 edition = "2018"
 description = "Generate sprite ron files for Amethyst"
+homepage = "https://github.com/zlepper/spriteron"
+keywords = ["amethyst"]
 
 [dependencies]
 structopt = { version = "0.2" }
