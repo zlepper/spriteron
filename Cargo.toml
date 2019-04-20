@@ -5,7 +5,11 @@ authors = ["Zlepper"]
 edition = "2018"
 description = "Generate sprite ron files for Amethyst"
 homepage = "https://github.com/zlepper/spriteron"
+repository = "https://github.com/zlepper/spriteron"
+readme = "README.md"
 keywords = ["amethyst"]
+categories = ["command-line-utilities"]
+license = "MIT"
 
 [dependencies]
 structopt = { version = "0.2" }
