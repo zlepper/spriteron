@@ -1,7 +1,7 @@
 [package]
 name = "spriteron"
 version = "0.1.0"
-authors = ["Zlepper <hansen13579@gmail.com>"]
+authors = ["Zlepper"]
 edition = "2018"
 description = "Generate sprite ron files for Amethyst"
 
